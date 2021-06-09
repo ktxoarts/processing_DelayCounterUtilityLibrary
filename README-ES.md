@@ -33,5 +33,5 @@ Ver tambien [examples/Screen/Screen.pde](examples/Screen/Screen.pde)
 
 ## Instalacion
 
-1. Descargar la ultima version de [](TBD)
+1. Descargar la ultima version de [Releases](https://github.com/ktxoarts/processing_DelayCounterUtilityLibrary/releases)
 2. Agregar la libreria al IDE de Processing siguiendo las intrucciones de [How to Install a Contributed Library](https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library)
