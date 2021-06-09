@@ -21,7 +21,9 @@ public class LoopCounter {
 	int direction = 1;
 	boolean loop = true;
 	boolean directionFlag = true;
-
+	public final static String VERSION = "##library.prettyVersion##";
+	
+	
 	/**
 	 * Constructor
 	 * 
@@ -173,4 +175,13 @@ public class LoopCounter {
 		}
 
 	}
+	/**
+	 * return the version of the Library.
+	 * 
+	 * @return String
+	 */
+	public static String version() {
+		return VERSION;
+	}
+
 }
